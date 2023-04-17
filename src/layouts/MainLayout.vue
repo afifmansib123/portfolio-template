@@ -106,4 +106,5 @@ export default {
     }
   }
 }
+<p>hi</p>
 </script>
